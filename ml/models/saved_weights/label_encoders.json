@@ -1,0 +1,38 @@
+{
+  "priority_map": {
+    "High": 0,
+    "Medium": 1,
+    "Low": 2
+  },
+  "reverse_priority": {
+    "0": "High",
+    "1": "Medium",
+    "2": "Low"
+  },
+  "category_map": {
+    "Development": 0,
+    "Academic & Research": 1,
+    "Business & Marketing": 2,
+    "Design & Creative": 3,
+    "Operations & Admin": 4,
+    "Personal & Health": 5
+  },
+  "reverse_category": {
+    "0": "Development",
+    "1": "Academic & Research",
+    "2": "Business & Marketing",
+    "3": "Design & Creative",
+    "4": "Operations & Admin",
+    "5": "Personal & Health"
+  },
+  "urgency_map": {
+    "Urgent": 1.0,
+    "Moderate": 0.5,
+    "Flexible": 0.0
+  },
+  "importance_map": {
+    "High": 1.0,
+    "Medium": 0.5,
+    "Low": 0.0
+  }
+}

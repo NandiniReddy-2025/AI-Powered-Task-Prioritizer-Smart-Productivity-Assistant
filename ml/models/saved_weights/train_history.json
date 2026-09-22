@@ -1,0 +1,98 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 1.578210821930243,
+    "train_prio_acc": 77.89115646258503,
+    "val_loss": 1.1272038671705458,
+    "val_prio_acc": 97.77777777777777,
+    "val_cat_acc": 23.809523809523807
+  },
+  {
+    "epoch": 2,
+    "train_loss": 1.0588452113728946,
+    "train_prio_acc": 99.79591836734694,
+    "val_loss": 0.7597119596269396,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 70.15873015873015
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.7097285574796248,
+    "train_prio_acc": 99.65986394557824,
+    "val_loss": 0.5066509369819884,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.5131684639826923,
+    "train_prio_acc": 99.72789115646259,
+    "val_loss": 0.4029047305621798,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.43656864024343944,
+    "train_prio_acc": 100.0,
+    "val_loss": 0.3798798296186659,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.4137458937914193,
+    "train_prio_acc": 99.93197278911565,
+    "val_loss": 0.37757532350600714,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.39949513304801215,
+    "train_prio_acc": 100.0,
+    "val_loss": 0.3725298986548469,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.3956774517792423,
+    "train_prio_acc": 100.0,
+    "val_loss": 0.3721001729132637,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.3928612529015055,
+    "train_prio_acc": 100.0,
+    "val_loss": 0.37155668546283055,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.391877395441743,
+    "train_prio_acc": 99.93197278911565,
+    "val_loss": 0.371628916547412,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 11,
+    "train_loss": 0.39108518183636826,
+    "train_prio_acc": 100.0,
+    "val_loss": 0.37155426863640073,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  },
+  {
+    "epoch": 12,
+    "train_loss": 0.39215640746006347,
+    "train_prio_acc": 100.0,
+    "val_loss": 0.371517719162835,
+    "val_prio_acc": 100.0,
+    "val_cat_acc": 100.0
+  }
+]

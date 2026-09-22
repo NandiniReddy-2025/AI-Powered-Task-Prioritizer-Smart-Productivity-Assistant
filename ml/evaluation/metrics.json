@@ -1,0 +1,55 @@
+{
+  "dataset_split": "test.jsonl",
+  "total_test_samples": 315,
+  "priority_classification": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "per_class": {
+      "High": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 118
+      },
+      "Medium": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 102
+      },
+      "Low": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 95
+      }
+    },
+    "confusion_matrix": [
+      [
+        118,
+        0,
+        0
+      ],
+      [
+        0,
+        102,
+        0
+      ],
+      [
+        0,
+        0,
+        95
+      ]
+    ],
+    "labels": [
+      "High",
+      "Medium",
+      "Low"
+    ]
+  },
+  "category_classification": {
+    "accuracy": 1.0
+  }
+}
